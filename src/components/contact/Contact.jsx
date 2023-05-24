@@ -1,6 +1,7 @@
 import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { MdOutlineEmail } from 'react-icons/md';
+import {BsWhatsapp} from 'react-icons/bs'
 import './contact.css';
 
 const Contact = () => {
@@ -40,7 +41,13 @@ const Contact = () => {
             <MdOutlineEmail className="contact__option-icon" />
             <h4>Email</h4>
             <h5>aneleuchiha0000@gmail.com</h5>
-            <a href="mailto:aneleuchiha0000@gmail.com">Send a message</a>
+            <a href="mailto:aneleuchiha0000@gmail.com">Send an email</a>
+          </article>
+          <article className="contact__option">
+            <BsWhatsapp className="contact__option-icon" />
+            <h4></h4>
+            <h5>081 553 9120</h5>
+            <a href="https://wa.me/0815539120" target='_blank'>Message me</a>
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>

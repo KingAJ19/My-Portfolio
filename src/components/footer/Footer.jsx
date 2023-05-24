@@ -28,7 +28,7 @@ const Footer = () => {
       <a href="https://www.youtube.com/@KingAJ19" target="_blank" rel="noreferrer" ><BsYoutube /></a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ET {getYear()}. All rights reserved.</small>
+        <small>&copy; AS {getYear()}. All rights reserved.</small>
       </div>
     </footer>
   )
