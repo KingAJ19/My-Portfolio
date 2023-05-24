@@ -47,7 +47,7 @@ const Contact = () => {
             <BsWhatsapp className="contact__option-icon" />
             <h4></h4>
             <h5>081 553 9120</h5>
-            <a href="https://wa.me/0815539120" target='_blank'>Message me</a>
+            <a href="https://wa.me/0815539120" target="_blank" rel="noopener noreferrer">Message me</a>
           </article>
         </div>
         <form ref={formRef} onSubmit={handleSubmit}>
