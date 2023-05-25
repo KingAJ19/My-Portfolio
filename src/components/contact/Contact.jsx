@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react';
 import emailjs from '@emailjs/browser';
 import { MdOutlineEmail } from 'react-icons/md';
 import {BsWhatsapp} from 'react-icons/bs'
-import './contact.css';
+import './contact.css'; 
 
 const Contact = () => {
   const [message, setMessage] = useState(false);
