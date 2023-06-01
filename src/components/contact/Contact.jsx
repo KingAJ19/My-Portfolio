@@ -8,7 +8,7 @@ const Contact = () => {
   const [message, setMessage] = useState(false);
   const formRef = useRef(); 
   const handleSubmit = (e) => {
-    e.preventDefault();
+    e.preventDefault(); 
     setMessage(true);
     emailjs
       .sendForm(
