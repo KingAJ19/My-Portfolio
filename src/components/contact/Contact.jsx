@@ -4,7 +4,7 @@ import { MdOutlineEmail } from 'react-icons/md';
 import { BsWhatsapp } from 'react-icons/bs'
 import './contact.css';
 
-const Contact = () => {
+const Contact = () => { 
   const [message, setMessage] = useState(false);
   const formRef = useRef(); 
   const handleSubmit = (e) => {
