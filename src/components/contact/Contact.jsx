@@ -9,7 +9,7 @@ const Contact = () => {
   const formRef = useRef(); 
   const handleSubmit = (e) => {
     e.preventDefault(); 
-    setMessage(true);
+    setMessage(true); 
     emailjs
       .sendForm(
         'service_k2qawqh',
