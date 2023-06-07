@@ -14,7 +14,7 @@ const Contact = () => {
       .sendForm(
         'service_k2qawqh',
         'template_c6rkpn6',
-        formRef.current,
+        formRef.current, 
         'X7K7ebhIeOy3YwHki'
       )
       .then(
