@@ -9,7 +9,7 @@ import IMG7 from '../../assets/quiz.png';
 import IMG8 from '../../assets/number.png';
 import IMG9 from '../../assets/grocery.jpg';
 import IMG10 from '../../assets/lottery.jpeg';
-// import IMG11 from '../../assets/lottery.jpeg';
+import IMG11 from '../../assets/photography.jpg';
 
 import './portfolio.css';
 
@@ -113,6 +113,16 @@ const Portfolio = () => {
       technologies: 'Python',
       link: 'https://www.pythonanywhere.com/user/Pythonguy/files/home/Pythonguy/lottery-game.py?edit',
       github: 'https://github.com/KingAJ19/Python-Lottery-Game',
+    },
+    {
+      id: 11,
+      title: 'My Photography Site',
+      img: IMG11,
+      description:
+        'A Site With My Photography',
+      technologies: 'HTML',
+      link: 'https://aneles-photography.netlify.app/',
+      github: 'https://github.com/KingAJ19/Photography-Site',
     },
     // {
     //   id: 11,
