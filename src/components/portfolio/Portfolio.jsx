@@ -11,6 +11,7 @@ import IMG9 from '../../assets/grocery.jpg';
 import IMG10 from '../../assets/lottery.jpeg';
 import IMG11 from '../../assets/photography.jpg';
 import IMG12 from '../../assets/unsplash.jpeg';
+import IMG13 from '../../assets/fives.png';
 
 import './portfolio.css';
 
@@ -134,6 +135,16 @@ const Portfolio = () => {
       technologies: 'React',
       link: 'https://aneles-unsplash-api.netlify.app/',
       github: 'https://github.com/KingAJ19/Unsplash-Image-Search',
+    },
+    {
+      id: 13,
+      title: 'New LMK FC Site',
+      img: IMG13,
+      description:
+        'New simple website for fives team LMK FC',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://lmk-fc-site.netlify.app/',
+      github: 'https://github.com/KingAJ19/LMK-FC',
     },
     // {
     //   id: 11,
