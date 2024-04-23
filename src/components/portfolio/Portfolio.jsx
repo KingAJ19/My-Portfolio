@@ -12,6 +12,7 @@ import IMG10 from '../../assets/lottery.jpeg';
 import IMG11 from '../../assets/photography.jpg';
 import IMG12 from '../../assets/unsplash.jpeg';
 import IMG13 from '../../assets/fives.png';
+import IMG14 from '../../assets/animehaven.jpg';
 
 import './portfolio.css';
 
@@ -145,6 +146,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://lmk-fc-site.netlify.app/',
       github: 'https://github.com/KingAJ19/LMK-FC',
+    },
+    {
+      id: 14,
+      title: 'AnimeHaven',
+      img: IMG14,
+      description:
+        'An anime streaming and blog site made with HTML, CSS and JS',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-animehaven.netlify.app/',
+      github: 'https://github.com/KingAJ19/AnimeHaven',
     },
     // {
     //   id: 11,
