@@ -152,7 +152,7 @@ const Portfolio = () => {
       title: 'AnimeHaven',
       img: IMG14,
       description:
-        'An anime streaming and blog site made with HTML, CSS and JS',
+        'An anime streaming site made with HTML, CSS and JS',
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-animehaven.netlify.app/',
       github: 'https://github.com/KingAJ19/AnimeHaven',
