@@ -13,6 +13,7 @@ import IMG11 from '../../assets/photography.jpg';
 import IMG12 from '../../assets/unsplash.jpeg';
 import IMG13 from '../../assets/fives.png';
 import IMG14 from '../../assets/animehaven.jpg';
+import IMG15 from '../../assets/translator.jpg';
 
 import './portfolio.css';
 
@@ -156,6 +157,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-animehaven.netlify.app/',
       github: 'https://github.com/KingAJ19/AnimeHaven',
+    },
+    {
+      id: 15,
+      title: 'Simple Language Translator',
+      img: IMG15,
+      description:
+        'A simple language translator app made with HTML, CSS and JS',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-language-translator.netlify.app/',
+      github: 'https://github.com/KingAJ19/Language-Translator-',
     },
     // {
     //   id: 11,
