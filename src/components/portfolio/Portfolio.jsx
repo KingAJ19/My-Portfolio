@@ -14,6 +14,7 @@ import IMG12 from '../../assets/unsplash.jpeg';
 import IMG13 from '../../assets/fives.png';
 import IMG14 from '../../assets/animehaven.jpg';
 import IMG15 from '../../assets/translator.jpg';
+import IMG16 from '../../assets/camera.jpg';
 
 import './portfolio.css';
 
@@ -167,6 +168,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-language-translator.netlify.app/',
       github: 'https://github.com/KingAJ19/Language-Translator-',
+    },
+    {
+      id: 16,
+      title: 'New Photography Site',
+      img: IMG16,
+      description:
+        'A new site to showcase my photography made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://anele-photography.netlify.app/',
+      github: 'https://github.com/KingAJ19/New-Photography-Site',
     },
     // {
     //   id: 11,
