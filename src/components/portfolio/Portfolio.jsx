@@ -16,6 +16,7 @@ import IMG14 from '../../assets/animehaven.jpg';
 import IMG15 from '../../assets/translator.jpg';
 import IMG16 from '../../assets/camera.jpg';
 import IMG17 from '../../assets/card.jpg';
+import IMG18 from '../../assets/quiz.jpg';
 
 import './portfolio.css';
 
@@ -189,6 +190,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-memory-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Card-Memory-Game',
+    },
+    {
+      id: 18,
+      title: 'Ultimate Quizzes',
+      img: IMG17,
+      description:
+        'A site with a bunch of different quizzes made with HTML, CSS & JS',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-ultimate-quiz.netlify.app/',
+      github: 'https://github.com/KingAJ19/Ultimate-Quiz',
     },
     // {
     //   id: 11,
