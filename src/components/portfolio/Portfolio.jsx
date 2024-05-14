@@ -182,7 +182,7 @@ const Portfolio = () => {
     },
     {
       id: 17,
-      title: 'New Photography Site',
+      title: 'Card Memory Game',
       img: IMG17,
       description:
         'A card memory game made with HTML, CSS & Javascript',
