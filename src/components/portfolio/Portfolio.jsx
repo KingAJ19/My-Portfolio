@@ -15,6 +15,7 @@ import IMG13 from '../../assets/fives.png';
 import IMG14 from '../../assets/animehaven.jpg';
 import IMG15 from '../../assets/translator.jpg';
 import IMG16 from '../../assets/camera.jpg';
+import IMG17 from '../../assets/card.jpg';
 
 import './portfolio.css';
 
@@ -178,6 +179,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://anele-photography.netlify.app/',
       github: 'https://github.com/KingAJ19/New-Photography-Site',
+    },
+    {
+      id: 17,
+      title: 'New Photography Site',
+      img: IMG17,
+      description:
+        'A card memory game made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-memory-game.netlify.app/',
+      github: 'https://github.com/KingAJ19/Card-Memory-Game',
     },
     // {
     //   id: 11,
