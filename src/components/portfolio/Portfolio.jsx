@@ -17,6 +17,7 @@ import IMG15 from '../../assets/translator.jpg';
 import IMG16 from '../../assets/camera.jpg';
 import IMG17 from '../../assets/card.jpg';
 import IMG18 from '../../assets/quiz.jpg';
+import IMG19 from '../../assets/github.png';
 
 import './portfolio.css';
 
@@ -200,6 +201,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-ultimate-quiz.netlify.app/',
       github: 'https://github.com/KingAJ19/Ultimate-Quiz',
+    },
+    {
+      id: 19,
+      title: 'GitHub Profile Finder',
+      img: IMG19,
+      description:
+        'A simple GitHub profile finder made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-simple-github-finder.netlify.app/',
+      github: 'https://github.com/KingAJ19/GitHub-Profile-Finder',
     },
     // {
     //   id: 11,
