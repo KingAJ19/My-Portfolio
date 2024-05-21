@@ -227,7 +227,7 @@ const Portfolio = () => {
       description:
         'A simple Tic Tac Toe game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-tic-tac-toe-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Tic-Tac-Toe',
     },
     {
@@ -237,7 +237,7 @@ const Portfolio = () => {
       description:
         'A random joke generator made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-random-joke-generator.netlify.app/',
       github: 'https://github.com/KingAJ19/Random-Joke-Generator',
     },
     {
@@ -247,7 +247,7 @@ const Portfolio = () => {
       description:
         'Another simple GitHub profile finder made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://another-github-profile-finder.netlify.app/',
       github: 'https://github.com/KingAJ19/GitHub-Profile-Finder-2',
     },
     {
@@ -257,7 +257,7 @@ const Portfolio = () => {
       description:
         'A simple exchange rate calculator made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-exchange-rate-calculator.netlify.app/',
       github: 'https://github.com/KingAJ19/Exchange-Rate-Calculator',
     },
     {
@@ -267,7 +267,7 @@ const Portfolio = () => {
       description:
         'A simple Would You Rather game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-would-you-rather-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Would-You-Rather-Game',
     },
     {
@@ -277,7 +277,7 @@ const Portfolio = () => {
       description:
         'A simple real-time digital clock made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-simple-digital-clock.netlify.app/',
       github: 'https://github.com/KingAJ19/Simple-Digital-Clock',
     },
     {
@@ -287,7 +287,7 @@ const Portfolio = () => {
       description:
         'A simple Rock Paper Scissors game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-rock-paper-scissors-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Rock-Paper-Scissors',
     },
     // {
