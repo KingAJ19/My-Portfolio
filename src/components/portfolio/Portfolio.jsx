@@ -18,6 +18,7 @@ import IMG16 from '../../assets/camera.jpg';
 import IMG17 from '../../assets/card.jpg';
 import IMG18 from '../../assets/quiz.jpg';
 import IMG19 from '../../assets/github.png';
+import IMG20 from '../../assets/tic-tac-toe.jpg';
 
 import './portfolio.css';
 
@@ -211,6 +212,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-simple-github-finder.netlify.app/',
       github: 'https://github.com/KingAJ19/GitHub-Profile-Finder',
+    },
+    {
+      id: 20,
+      title: 'Tic-Tac-Toe',
+      img: IMG20,
+      description:
+        'A simple Tic Tac Toe game made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Tic-Tac-Toe',
     },
     // {
     //   id: 11,
