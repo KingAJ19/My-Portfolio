@@ -23,6 +23,7 @@ import IMG21 from '../../assets/jokes.jpeg';
 import IMG22 from '../../assets/githubs.jpg';
 import IMG23 from '../../assets/exchange-rate.jpg';
 import IMG24 from '../../assets/wyr.png';
+import IMG25 from '../../assets/clock.jpg';
 
 
 import './portfolio.css';
@@ -267,6 +268,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Would-You-Rather-Game',
+    },
+    {
+      id: 25,
+      title: 'Simple-Digital-Clock',
+      img: IMG25,
+      description:
+        'A simple real-time digital clock made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Simple-Digital-Clock',
     },
     // {
     //   id: 11,
