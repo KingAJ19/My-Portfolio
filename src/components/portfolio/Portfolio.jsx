@@ -19,6 +19,7 @@ import IMG17 from '../../assets/card.jpg';
 import IMG18 from '../../assets/quiz.jpg';
 import IMG19 from '../../assets/github.png';
 import IMG20 from '../../assets/tic-tac-toe.jpg';
+import IMG21 from '../../assets/quotes.jpg';
 
 import './portfolio.css';
 
@@ -222,6 +223,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Tic-Tac-Toe',
+    },
+    {
+      id: 21,
+      title: 'Anime Quote Generator',
+      img: IMG21,
+      description:
+        'A random anime quote generator made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Anime-Quote-Generator',
     },
     // {
     //   id: 11,
