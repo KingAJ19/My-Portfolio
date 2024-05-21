@@ -24,6 +24,7 @@ import IMG22 from '../../assets/githubs.jpg';
 import IMG23 from '../../assets/exchange-rate.jpg';
 import IMG24 from '../../assets/wyr.png';
 import IMG25 from '../../assets/clock.jpg';
+import IMG26 from '../../assets/rps.jpg';
 
 
 import './portfolio.css';
@@ -278,6 +279,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Simple-Digital-Clock',
+    },
+    {
+      id: 26,
+      title: 'Rock Paper Scissors Game',
+      img: IMG26,
+      description:
+        'A simple Rock Paper Scissors game made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Rock-Paper-Scissors',
     },
     // {
     //   id: 11,
