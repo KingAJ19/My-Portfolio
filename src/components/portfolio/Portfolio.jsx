@@ -19,7 +19,7 @@ import IMG17 from '../../assets/card.jpg';
 import IMG18 from '../../assets/quiz.jpg';
 import IMG19 from '../../assets/github.png';
 import IMG20 from '../../assets/tic-tac-toe.jpg';
-import IMG21 from '../../assets/quotes.jpg';
+import IMG21 from '../../assets/jokes.jpeg';
 
 import './portfolio.css';
 
@@ -226,13 +226,13 @@ const Portfolio = () => {
     },
     {
       id: 21,
-      title: 'Anime Quote Generator',
+      title: 'Random Joke Generator',
       img: IMG21,
       description:
-        'A random anime quote generator made with HTML, CSS & Javascript',
+        'A random joke generator made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
       link: '',
-      github: 'https://github.com/KingAJ19/Anime-Quote-Generator',
+      github: 'https://github.com/KingAJ19/Random-Joke-Generator',
     },
     // {
     //   id: 11,
