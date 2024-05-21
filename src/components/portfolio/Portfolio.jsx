@@ -271,7 +271,7 @@ const Portfolio = () => {
     },
     {
       id: 25,
-      title: 'Simple-Digital-Clock',
+      title: 'Simple Digital Clock',
       img: IMG25,
       description:
         'A simple real-time digital clock made with HTML, CSS & Javascript',
