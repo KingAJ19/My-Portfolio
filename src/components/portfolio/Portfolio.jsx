@@ -21,6 +21,7 @@ import IMG19 from '../../assets/github.png';
 import IMG20 from '../../assets/tic-tac-toe.jpg';
 import IMG21 from '../../assets/jokes.jpeg';
 import IMG22 from '../../assets/githubs.jpg';
+import IMG23 from '../../assets/exchange-rate.jpg';
 
 
 import './portfolio.css';
@@ -245,6 +246,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/GitHub-Profile-Finder-2',
+    },
+    {
+      id: 23,
+      title: 'Exchange Rate Calculator',
+      img: IMG23,
+      description:
+        'A simple exchange rate calculator made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Exchange-Rate-Calculator',
     },
     // {
     //   id: 11,
