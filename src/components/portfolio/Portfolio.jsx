@@ -20,6 +20,8 @@ import IMG18 from '../../assets/quiz.jpg';
 import IMG19 from '../../assets/github.png';
 import IMG20 from '../../assets/tic-tac-toe.jpg';
 import IMG21 from '../../assets/jokes.jpeg';
+import IMG22 from '../../assets/githubs.jpg';
+
 
 import './portfolio.css';
 
@@ -233,6 +235,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Random-Joke-Generator',
+    },
+    {
+      id: 22,
+      title: 'GitHub Profile Finder 2',
+      img: IMG22,
+      description:
+        'Another simple GitHub profile finder made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/GitHub-Profile-Finder-2',
     },
     // {
     //   id: 11,
