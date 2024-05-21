@@ -22,6 +22,7 @@ import IMG20 from '../../assets/tic-tac-toe.jpg';
 import IMG21 from '../../assets/jokes.jpeg';
 import IMG22 from '../../assets/githubs.jpg';
 import IMG23 from '../../assets/exchange-rate.jpg';
+import IMG24 from '../../assets/wyr.png';
 
 
 import './portfolio.css';
@@ -256,6 +257,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Exchange-Rate-Calculator',
+    },
+    {
+      id: 24,
+      title: 'Would You Rather Game',
+      img: IMG24,
+      description:
+        'A simple Would You Rather game made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Would-You-Rather-Game',
     },
     // {
     //   id: 11,
