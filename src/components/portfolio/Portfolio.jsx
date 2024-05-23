@@ -25,6 +25,7 @@ import IMG23 from '../../assets/exchange-rate.jpg';
 import IMG24 from '../../assets/wyr.png';
 import IMG25 from '../../assets/clock.jpg';
 import IMG26 from '../../assets/rps.jpg';
+import IMG27 from '../../assets/pokedex.jpg';
 
 
 import './portfolio.css';
@@ -289,6 +290,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-rock-paper-scissors-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Rock-Paper-Scissors',
+    },
+    {
+      id: 27,
+      title: 'Pokedex',
+      img: IMG27,
+      description:
+        'A pokedex website made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Pokedex',
     },
     // {
     //   id: 11,
