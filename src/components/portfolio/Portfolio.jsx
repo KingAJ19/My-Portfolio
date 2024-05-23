@@ -298,7 +298,7 @@ const Portfolio = () => {
       description:
         'A pokedex website made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-pokedex.netlify.app/',
       github: 'https://github.com/KingAJ19/Pokedex',
     },
     // {
