@@ -26,6 +26,7 @@ import IMG24 from '../../assets/wyr.png';
 import IMG25 from '../../assets/clock.jpg';
 import IMG26 from '../../assets/rps.jpg';
 import IMG27 from '../../assets/pokedex.jpg';
+import IMG28 from '../../assets/weather.png';
 
 
 import './portfolio.css';
@@ -300,6 +301,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-pokedex.netlify.app/',
       github: 'https://github.com/KingAJ19/Pokedex',
+    },
+    {
+      id: 28,
+      title: 'Simple Weather App',
+      img: IMG28,
+      description:
+        'A simple weather app made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Weather-App',
     },
     // {
     //   id: 11,
