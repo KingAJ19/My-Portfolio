@@ -27,6 +27,7 @@ import IMG25 from '../../assets/clock.jpg';
 import IMG26 from '../../assets/rps.jpg';
 import IMG27 from '../../assets/pokedex.jpg';
 import IMG28 from '../../assets/weather.png';
+import IMG29 from '../../assets/removebg.jpg';
 
 
 import './portfolio.css';
@@ -311,6 +312,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: '',
       github: 'https://github.com/KingAJ19/Weather-App',
+    },
+    {
+      id: 29,
+      title: 'Simple Background Remover',
+      img: IMG29,
+      description:
+        'A simple background remover using HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Remove-Background',
     },
     // {
     //   id: 11,
