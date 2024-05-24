@@ -310,7 +310,7 @@ const Portfolio = () => {
       description:
         'A simple weather app made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-weather-app.netlify.app/',
       github: 'https://github.com/KingAJ19/Weather-App',
     },
     {
@@ -320,7 +320,7 @@ const Portfolio = () => {
       description:
         'A simple background remover using HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-background-remover.netlify.app/',
       github: 'https://github.com/KingAJ19/Remove-Background',
     },
     // {
