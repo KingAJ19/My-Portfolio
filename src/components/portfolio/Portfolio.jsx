@@ -28,6 +28,7 @@ import IMG26 from '../../assets/rps.jpg';
 import IMG27 from '../../assets/pokedex.jpg';
 import IMG28 from '../../assets/weather.png';
 import IMG29 from '../../assets/removebg.jpg';
+import IMG30 from '../../assets/lowkey.jpg';
 
 
 import './portfolio.css';
@@ -322,6 +323,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-background-remover.netlify.app/',
       github: 'https://github.com/KingAJ19/Remove-Background',
+    },
+    {
+      id: 30,
+      title: 'Lowkey Music',
+      img: IMG30,
+      description:
+        'A simple site for my music made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://lowkey-music.netlify.app/',
+      github: 'https://github.com/KingAJ19/Lowkey-Music-Site',
     },
     // {
     //   id: 11,
