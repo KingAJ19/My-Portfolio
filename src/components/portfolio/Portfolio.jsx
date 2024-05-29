@@ -353,7 +353,7 @@ const Portfolio = () => {
       description:
         'A simple music player made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-music-player.netlify.app/',
       github: 'https://github.com/KingAJ19/Simple-Music-Player',
     },
     // {
