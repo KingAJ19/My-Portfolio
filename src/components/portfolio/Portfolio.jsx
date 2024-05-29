@@ -31,6 +31,7 @@ import IMG29 from '../../assets/removebg.jpg';
 import IMG30 from '../../assets/lowkey.jpg';
 import IMG31 from '../../assets/flags.png';
 import IMG32 from '../../assets/music.jpg';
+import IMG33 from '../../assets/characters.png';
 
 
 import './portfolio.css';
@@ -355,6 +356,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://aneles-music-player.netlify.app/',
       github: 'https://github.com/KingAJ19/Simple-Music-Player',
+    },
+    {
+      id: 33,
+      title: 'Character Search Filter',
+      img: IMG33,
+      description:
+        'A character search filter made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-character-search.netlify.app/',
+      github: 'https://github.com/KingAJ19/Character-Search-Filter',
     },
     // {
     //   id: 11,
