@@ -342,7 +342,7 @@ const Portfolio = () => {
       description:
         'A simple flag guessing game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://aneles-flag-guessing-game.netlify.app/',
       github: 'https://github.com/KingAJ19/Guess-The-Flag-Game',
     },
     // {
