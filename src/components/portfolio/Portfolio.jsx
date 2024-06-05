@@ -22,7 +22,7 @@ import IMG20 from '../../assets/tic-tac-toe.jpg';
 import IMG21 from '../../assets/jokes.jpeg';
 import IMG22 from '../../assets/githubs.jpg';
 import IMG23 from '../../assets/exchange-rate.jpg';
-import IMG24 from '../../assets/wyr.png';
+// import IMG24 from '../../assets/wyr.png';
 import IMG25 from '../../assets/clock.jpg';
 import IMG26 from '../../assets/rps.jpg';
 import IMG27 from '../../assets/pokedex.jpg';
@@ -267,16 +267,16 @@ const Portfolio = () => {
       link: 'https://aneles-exchange-rate-calculator.netlify.app/',
       github: 'https://github.com/KingAJ19/Exchange-Rate-Calculator',
     },
-    {
-      id: 24,
-      title: 'Would You Rather Game',
-      img: IMG24,
-      description:
-        'A simple Would You Rather game made with HTML, CSS & Javascript',
-      technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-would-you-rather-game.netlify.app/',
-      github: 'https://github.com/KingAJ19/Would-You-Rather-Game',
-    },
+    // {
+    //   id: 24,
+    //   title: 'Would You Rather Game',
+    //   img: IMG24,
+    //   description:
+    //     'A simple Would You Rather game made with HTML, CSS & Javascript',
+    //   technologies: 'HTML | CSS | Javascript',
+    //   link: 'https://aneles-would-you-rather-game.netlify.app/',
+    //   github: 'https://github.com/KingAJ19/Would-You-Rather-Game',
+    // },
     {
       id: 25,
       title: 'Simple Digital Clock',
