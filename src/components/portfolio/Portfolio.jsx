@@ -29,7 +29,7 @@ import IMG27 from '../../assets/pokedex.jpg';
 import IMG28 from '../../assets/weather.png';
 import IMG29 from '../../assets/removebg.jpg';
 import IMG30 from '../../assets/lowkey.jpg';
-import IMG31 from '../../assets/flags.png';
+// import IMG31 from '../../assets/flags.png';
 import IMG32 from '../../assets/music.jpg';
 import IMG33 from '../../assets/characters.png';
 
@@ -337,16 +337,16 @@ const Portfolio = () => {
       link: 'https://lowkey-music.netlify.app/',
       github: 'https://github.com/KingAJ19/Lowkey-Music-Site',
     },
-    {
-      id: 31,
-      title: 'Guess The Flag Game',
-      img: IMG31,
-      description:
-        'A simple flag guessing game made with HTML, CSS & Javascript',
-      technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-flag-guessing-game.netlify.app/',
-      github: 'https://github.com/KingAJ19/Guess-The-Flag-Game',
-    },
+    // {
+    //   id: 31,
+    //   title: 'Guess The Flag Game',
+    //   img: IMG31,
+    //   description:
+    //     'A simple flag guessing game made with HTML, CSS & Javascript',
+    //   technologies: 'HTML | CSS | Javascript',
+    //   link: 'https://aneles-flag-guessing-game.netlify.app/',
+    //   github: 'https://github.com/KingAJ19/Guess-The-Flag-Game',
+    // },
     {
       id: 32,
       title: 'Simple Music Player',
