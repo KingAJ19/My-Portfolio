@@ -210,7 +210,7 @@ const Portfolio = () => {
     {
       id: 18,
       title: 'Ultimate Quizzes',
-      img: IMG17,
+      img: IMG18,
       description:
         'A site with a bunch of different quizzes made with HTML, CSS & JS',
       technologies: 'HTML | CSS | Javascript',
