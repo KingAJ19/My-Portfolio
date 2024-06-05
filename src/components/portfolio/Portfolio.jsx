@@ -32,6 +32,7 @@ import IMG30 from '../../assets/lowkey.jpg';
 // import IMG31 from '../../assets/flags.png';
 import IMG32 from '../../assets/music.jpg';
 import IMG33 from '../../assets/characters.png';
+import IMG34 from '../../assets/password.jpg';
 
 
 import './portfolio.css';
@@ -366,6 +367,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://kingaj19.github.io/Character-Search-Filter/',
       github: 'https://github.com/KingAJ19/Character-Search-Filter',
+    },
+    {
+      id: 34,
+      title: 'Character Search Filter',
+      img: IMG34,
+      description:
+        'A simple password generator site made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/Password-Generator-',
     },
     // {
     //   id: 11,
