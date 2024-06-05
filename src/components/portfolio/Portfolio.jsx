@@ -234,7 +234,7 @@ const Portfolio = () => {
       description:
         'A simple Tic Tac Toe game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-tic-tac-toe-game.netlify.app/',
+      link: 'https://kingaj19.github.io/Tic-Tac-Toe/',
       github: 'https://github.com/KingAJ19/Tic-Tac-Toe',
     },
     {
@@ -244,7 +244,7 @@ const Portfolio = () => {
       description:
         'A random joke generator made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-random-joke-generator.netlify.app/',
+      link: 'https://kingaj19.github.io/Random-Joke-Generator/',
       github: 'https://github.com/KingAJ19/Random-Joke-Generator',
     },
     {
@@ -254,7 +254,7 @@ const Portfolio = () => {
       description:
         'Another simple GitHub profile finder made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://another-github-profile-finder.netlify.app/',
+      link: 'https://kingaj19.github.io/GitHub-Profile-Finder-2/',
       github: 'https://github.com/KingAJ19/GitHub-Profile-Finder-2',
     },
     {
@@ -264,7 +264,7 @@ const Portfolio = () => {
       description:
         'A simple exchange rate calculator made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-exchange-rate-calculator.netlify.app/',
+      link: 'https://kingaj19.github.io/Exchange-Rate-Calculator/',
       github: 'https://github.com/KingAJ19/Exchange-Rate-Calculator',
     },
     // {
@@ -284,7 +284,7 @@ const Portfolio = () => {
       description:
         'A simple real-time digital clock made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-simple-digital-clock.netlify.app/',
+      link: 'https://kingaj19.github.io/Simple-Digital-Clock/',
       github: 'https://github.com/KingAJ19/Simple-Digital-Clock',
     },
     {
@@ -294,7 +294,7 @@ const Portfolio = () => {
       description:
         'A simple Rock Paper Scissors game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-rock-paper-scissors-game.netlify.app/',
+      link: 'https://kingaj19.github.io/Rock-Paper-Scissors/',
       github: 'https://github.com/KingAJ19/Rock-Paper-Scissors',
     },
     {
@@ -304,7 +304,7 @@ const Portfolio = () => {
       description:
         'A pokedex website made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-pokedex.netlify.app/',
+      link: 'https://kingaj19.github.io/Pokedex/',
       github: 'https://github.com/KingAJ19/Pokedex',
     },
     {
@@ -314,7 +314,7 @@ const Portfolio = () => {
       description:
         'A simple weather app made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-weather-app.netlify.app/',
+      link: 'https://kingaj19.github.io/Weather-App/',
       github: 'https://github.com/KingAJ19/Weather-App',
     },
     {
@@ -324,7 +324,7 @@ const Portfolio = () => {
       description:
         'A simple background remover using HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-background-remover.netlify.app/',
+      link: 'https://kingaj19.github.io/Remove-Background/',
       github: 'https://github.com/KingAJ19/Remove-Background',
     },
     {
@@ -334,7 +334,7 @@ const Portfolio = () => {
       description:
         'A simple site for my music made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://lowkey-music.netlify.app/',
+      link: 'https://kingaj19.github.io/Lowkey-Music-Site/',
       github: 'https://github.com/KingAJ19/Lowkey-Music-Site',
     },
     // {
@@ -354,7 +354,7 @@ const Portfolio = () => {
       description:
         'A simple music player made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-music-player.netlify.app/',
+      link: 'https://kingaj19.github.io/Simple-Music-Player/',
       github: 'https://github.com/KingAJ19/Simple-Music-Player',
     },
     {
@@ -364,7 +364,7 @@ const Portfolio = () => {
       description:
         'A character search filter made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-character-search.netlify.app/',
+      link: 'https://kingaj19.github.io/Character-Search-Filter/',
       github: 'https://github.com/KingAJ19/Character-Search-Filter',
     },
     // {
