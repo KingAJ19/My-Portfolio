@@ -375,7 +375,7 @@ const Portfolio = () => {
       description:
         'A simple password generator site made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://kingaj19.github.io/Password-Generator-/',
       github: 'https://github.com/KingAJ19/Password-Generator-',
     },
     // {
