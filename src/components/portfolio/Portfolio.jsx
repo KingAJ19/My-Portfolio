@@ -224,7 +224,7 @@ const Portfolio = () => {
       description:
         'A simple GitHub profile finder made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-simple-github-finder.netlify.app/',
+      link: 'https://kingaj19.github.io/GitHub-Profile-Finder/',
       github: 'https://github.com/KingAJ19/GitHub-Profile-Finder',
     },
     {
