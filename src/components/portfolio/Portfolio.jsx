@@ -386,7 +386,7 @@ const Portfolio = () => {
       description:
         'A simple todo list site made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://kingaj19.github.io/Todo-List/',
       github: 'https://github.com/KingAJ19/Password-Generator-',
     },
     // {
