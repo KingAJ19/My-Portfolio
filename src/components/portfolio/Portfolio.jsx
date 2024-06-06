@@ -186,7 +186,7 @@ const Portfolio = () => {
       description:
         'A simple language translator app made with HTML, CSS and JS',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-language-translator.netlify.app/',
+      link: 'https://kingaj19.github.io/Language-Translator-/',
       github: 'https://github.com/KingAJ19/Language-Translator-',
     },
     {
@@ -206,7 +206,7 @@ const Portfolio = () => {
       description:
         'A card memory game made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: 'https://aneles-memory-game.netlify.app/',
+      link: 'https://kingaj19.github.io/Card-Memory-Game/',
       github: 'https://github.com/KingAJ19/Card-Memory-Game',
     },
     {
