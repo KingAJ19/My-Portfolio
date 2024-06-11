@@ -34,6 +34,7 @@ import IMG32 from '../../assets/music.jpg';
 import IMG33 from '../../assets/characters.png';
 import IMG34 from '../../assets/password.jpg';
 import IMG35 from '../../assets/todo.png';
+import IMG36 from '../../assets/calculator.jpg';
 
 
 import './portfolio.css';
@@ -388,6 +389,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://kingaj19.github.io/Todo-List/',
       github: 'https://github.com/KingAJ19/Password-Generator-',
+    },
+    {
+      id: 36,
+      title: 'Simple Calculator',
+      img: IMG36,
+      description:
+        'A simple calculator app made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://kingaj19.github.io/Simple-Calculator/',
+      github: 'https://github.com/KingAJ19/Simple-Calculator',
     },
     // {
     //   id: 11,
