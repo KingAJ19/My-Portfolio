@@ -11,7 +11,7 @@ const HeaderSocials = () => {
       <a href="https://www.youtube.com/@KingAJ19" target="_blank" rel="noreferrer" ><BsYoutube /></a>
       <a href="https://www.youtube.com/@AneleSokwane" target="_blank" rel="noreferrer" ><BsYoutube /></a>
       <a href="https://www.youtube.com/@liverpoolfan760" target="_blank" rel="noreferrer" ><BsYoutube /></a>
-    </div>
+    </div> 
   )
 }
 
