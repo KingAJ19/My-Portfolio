@@ -373,7 +373,7 @@ const Portfolio = () => {
     },
     {
       id: 34,
-      title: 'Character Search Filter',
+      title: 'Password Generator',
       img: IMG34,
       description:
         'A simple password generator site made with HTML, CSS & Javascript',
