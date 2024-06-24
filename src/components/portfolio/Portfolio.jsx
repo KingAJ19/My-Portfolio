@@ -408,7 +408,7 @@ const Portfolio = () => {
       description:
         'A new site for the LMK team made with HTML, CSS & Javascript',
       technologies: 'HTML | CSS | Javascript',
-      link: '',
+      link: 'https://lmk-football-club.netlify.app/',
       github: 'https://github.com/KingAJ19/LMK',
     },
     // {
