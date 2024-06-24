@@ -35,6 +35,7 @@ import IMG33 from '../../assets/characters.png';
 import IMG34 from '../../assets/password.jpg';
 import IMG35 from '../../assets/todo.png';
 import IMG36 from '../../assets/calculator.jpg';
+import IMG37 from '../../assets/main.jpg';
 
 
 import './portfolio.css';
@@ -399,6 +400,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://kingaj19.github.io/Simple-Calculator/',
       github: 'https://github.com/KingAJ19/Simple-Calculator',
+    },
+    {
+      id: 37,
+      title: 'LMK FC',
+      img: IMG37,
+      description:
+        'A new site for the LMK team made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: '',
+      github: 'https://github.com/KingAJ19/LMK',
     },
     // {
     //   id: 11,
