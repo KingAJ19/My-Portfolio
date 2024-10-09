@@ -36,6 +36,8 @@ import IMG34 from '../../assets/password.jpg';
 import IMG35 from '../../assets/todo.png';
 import IMG36 from '../../assets/calculator.jpg';
 import IMG37 from '../../assets/main.jpg';
+import IMG38 from '../../assets/wallpaper.jpg';
+import IMG39 from '../../assets/password generator.jpg';
 
 
 import './portfolio.css';
@@ -410,6 +412,26 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://lmk-football-club.netlify.app/',
       github: 'https://github.com/KingAJ19/LMK',
+    },
+     {
+      id: 38,
+      title: 'Wallpaper App',
+      img: IMG38,
+      description:
+        'A site to keep my wallpapers made using HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-wallpapers.netlify.app/',
+      github: 'https://github.com/KingAJ19/Wallpaper-App',
+    },
+     {
+      id: 39,
+      title: 'Password Generator',
+      img: IMG39,
+      description:
+        'A simple password generator app made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://kingaj19.github.io/Password-Generator/',
+      github: 'https://github.com/KingAJ19/Password-Generator',
     },
     // {
     //   id: 11,
