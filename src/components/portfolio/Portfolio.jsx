@@ -38,7 +38,7 @@ import IMG36 from '../../assets/calculator.jpg';
 import IMG37 from '../../assets/main.jpg';
 import IMG38 from '../../assets/wallpaper.jpg';
 import IMG39 from '../../assets/password generator.jpg';
-
+import IMG40 from '../../assets/javascript.jpg';
 
 import './portfolio.css';
 
@@ -432,6 +432,16 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://kingaj19.github.io/Password-Generator/',
       github: 'https://github.com/KingAJ19/Password-Generator',
+    },
+    {
+      id: 40,
+      title: '30 Days, 30 Javascript',
+      img: IMG40,
+      description:
+        'Doing 30 Javascript projects from a free course',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://30days30javascript.netlify.app/',
+      github: 'https://github.com/KingAJ19/30-Days-30-Javascript-Projects',
     },
     // {
     //   id: 11,
