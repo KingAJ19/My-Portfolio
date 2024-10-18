@@ -39,6 +39,10 @@ import IMG37 from '../../assets/main.jpg';
 import IMG38 from '../../assets/wallpaper.jpg';
 import IMG39 from '../../assets/password generator.jpg';
 import IMG40 from '../../assets/javascript.jpg';
+import IMG41 from '../../assets/basketball.jpg';
+import IMG42 from '../../assets/paint.jpg';
+import IMG43 from '../../assets/lorem.jpg';
+import IMG44 from '../../assets/age.png';
 
 import './portfolio.css';
 
@@ -442,6 +446,46 @@ const Portfolio = () => {
       technologies: 'HTML | CSS | Javascript',
       link: 'https://30days30javascript.netlify.app/',
       github: 'https://github.com/KingAJ19/30-Days-30-Javascript-Projects',
+    },
+    {
+      id: 41,
+      title: 'Basketball Game',
+      img: IMG41,
+      description:
+        'A simple basketball game made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-basketball-game.netlify.app/',
+      github: 'https://github.com/KingAJ19/Basketball-Game',
+    },
+    {
+      id: 42,
+      title: 'Painting App',
+      img: IMG42,
+      description:
+        'A simple painting app made with HTML. CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-painting-app.netlify.app/',
+      github: 'https://github.com/KingAJ19/Painting-App',
+    },
+    {
+      id: 43,
+      title: 'Lorem Ipsum Generator',
+      img: IMG43,
+      description:
+        'A simple lorem ipsum generator made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-lorem-ipsum.netlify.app/',
+      github: 'https://github.com/KingAJ19/Lorem-Ipsum-Generator',
+    },
+    {
+      id: 44,
+      title: 'Age Calculator',
+      img: IMG44,
+      description:
+        'A simple age calculator made with HTML, CSS & Javascript',
+      technologies: 'HTML | CSS | Javascript',
+      link: 'https://aneles-age-calculator.netlify.app/',
+      github: 'https://github.com/KingAJ19/Age-Calculator',
     },
     // {
     //   id: 11,
